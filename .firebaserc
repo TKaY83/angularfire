@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tdangulartodo": {
+      "hosting": {
+        "firetest1": [
+          "tdangulartodo"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tdangulartodo"
+  }
+}
